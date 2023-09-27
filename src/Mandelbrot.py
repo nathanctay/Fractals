@@ -1,0 +1,2 @@
+from Fractal import Fractal
+
